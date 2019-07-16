@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6fa02b5-2d37-4e05-b69b-36d9f042deaf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gyrocentral/GyroAPIApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gyrocentral/GyroAPIApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6fa02b5-2d37-4e05-b69b-36d9f042deaf" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gyrocentral/GyroAPIApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            <state relative-caret-position="231">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,10 +76,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1776" />
-    <option name="y" value="213" />
-    <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="x" value="1753" />
+    <option name="y" value="449" />
+    <option name="width" value="1366" />
+    <option name="height" value="930" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -160,15 +158,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563309709272</updated>
-      <workItem from="1563309712987" duration="880000" />
+      <workItem from="1563309712987" duration="1108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="880000" />
+    <option name="totallyTimeSpent" value="1108000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1776" y="213" width="1680" height="1027" extended-state="0" />
+    <frame x="1753" y="352" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -177,10 +175,10 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3297062" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3297062" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" />
@@ -226,8 +224,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gyrocentral/GyroAPIApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        <state relative-caret-position="231">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
