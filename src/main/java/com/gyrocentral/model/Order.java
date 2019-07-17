@@ -17,8 +17,6 @@ public class Order {
 
     public Order(){
         this.id = UUID.randomUUID().toString();
-
-
     }
 
 

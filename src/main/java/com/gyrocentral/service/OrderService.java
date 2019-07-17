@@ -26,4 +26,8 @@ public class OrderService {
     public Order updateOrder(String id, Order order) {
         return cartRepository.updateOrder(id, order);
     }
+
+    public Order deleteOrder(String id) {
+        return cartRepository.deleteOrder(id);
+    }
 }

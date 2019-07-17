@@ -13,8 +13,4 @@ public class OrderItem {
     private String description;
     private BigDecimal price;
 
-    public OrderItem(){
-        this.id = UUID.randomUUID().toString();
-    }
-
 }

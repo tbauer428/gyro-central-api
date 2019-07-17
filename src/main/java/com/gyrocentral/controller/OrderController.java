@@ -13,6 +13,7 @@ import java.util.Map;
 public class OrderController {
     private OrderService orderService = new OrderService();
 
+
     @GetMapping("/orders/all")
     public Map<String, Order> getOrders() {
         return orderService.getOrders();
@@ -31,6 +32,11 @@ public class OrderController {
     @PutMapping("/orders/update/{id}")
     public Order updateOrder(@PathVariable String id, @RequestBody Order order){
         return orderService.updateOrder(id, order);
+    }
+
+    @DeleteMapping("orders/delete/{id}")
+    public Order deleteOrder(@PathVariable String id){
+        return orderService.deleteOrder(id);
     }
 
 }

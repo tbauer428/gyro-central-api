@@ -28,4 +28,8 @@ public class CartRepository {
         orderMap.replace(id, order);
         return order;
     }
+
+    public Order deleteOrder(String id) {
+        return orderMap.remove(id);
+    }
 }
