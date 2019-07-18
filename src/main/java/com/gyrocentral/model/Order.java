@@ -1,9 +1,6 @@
 package com.gyrocentral.model;
 
-
 import lombok.Data;
-
-
 import java.util.List;
 import java.util.UUID;
 
