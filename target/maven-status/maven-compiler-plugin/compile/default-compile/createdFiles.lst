@@ -1,7 +1,6 @@
-com/gyrocentral/EventSource.class
+com/gyrocentral/model/OrderItem.class
 com/gyrocentral/repository/CartRepository.class
 com/gyrocentral/GyroAPIApplication.class
+com/gyrocentral/controller/OrderController.class
 com/gyrocentral/model/Order.class
 com/gyrocentral/service/OrderService.class
-com/gyrocentral/model/OrderItem.class
-com/gyrocentral/controller/OrderController.class
